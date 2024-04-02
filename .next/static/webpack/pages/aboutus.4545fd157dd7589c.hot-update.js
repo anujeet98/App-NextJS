@@ -6,17 +6,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["pages/aboutus"],{
-
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5Canujeet%5CDesktop%5Cwork%5CSHARPNER%5CNEXTJS%5Cnextjs-app%5Cpages%5Caboutus%5Cindex.js&page=%2Faboutus!":
-/*!**************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5Canujeet%5CDesktop%5Cwork%5CSHARPNER%5CNEXTJS%5Cnextjs-app%5Cpages%5Caboutus%5Cindex.js&page=%2Faboutus! ***!
-  \**************************************************************************************************************************************************************************************************************************/
-/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
-
-eval(__webpack_require__.ts("\n    (window.__NEXT_P = window.__NEXT_P || []).push([\n      \"/aboutus\",\n      function () {\n        return __webpack_require__(/*! ./pages/aboutus/index.js */ \"./pages/aboutus/index.js\");\n      }\n    ]);\n    if(true) {\n      module.hot.dispose(function () {\n        window.__NEXT_P.push([\"/aboutus\"])\n      });\n    }\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWNsaWVudC1wYWdlcy1sb2FkZXIuanM/YWJzb2x1dGVQYWdlUGF0aD1DJTNBJTVDVXNlcnMlNUNhbnVqZWV0JTVDRGVza3RvcCU1Q3dvcmslNUNTSEFSUE5FUiU1Q05FWFRKUyU1Q25leHRqcy1hcHAlNUNwYWdlcyU1Q2Fib3V0dXMlNUNpbmRleC5qcyZwYWdlPSUyRmFib3V0dXMhIiwibWFwcGluZ3MiOiI7QUFDQTtBQUNBO0FBQ0E7QUFDQSxlQUFlLG1CQUFPLENBQUMsMERBQTBCO0FBQ2pEO0FBQ0E7QUFDQSxPQUFPLElBQVU7QUFDakIsTUFBTSxVQUFVO0FBQ2hCO0FBQ0EsT0FBTztBQUNQO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz9mZTQxIl0sInNvdXJjZXNDb250ZW50IjpbIlxuICAgICh3aW5kb3cuX19ORVhUX1AgPSB3aW5kb3cuX19ORVhUX1AgfHwgW10pLnB1c2goW1xuICAgICAgXCIvYWJvdXR1c1wiLFxuICAgICAgZnVuY3Rpb24gKCkge1xuICAgICAgICByZXR1cm4gcmVxdWlyZShcIi4vcGFnZXMvYWJvdXR1cy9pbmRleC5qc1wiKTtcbiAgICAgIH1cbiAgICBdKTtcbiAgICBpZihtb2R1bGUuaG90KSB7XG4gICAgICBtb2R1bGUuaG90LmRpc3Bvc2UoZnVuY3Rpb24gKCkge1xuICAgICAgICB3aW5kb3cuX19ORVhUX1AucHVzaChbXCIvYWJvdXR1c1wiXSlcbiAgICAgIH0pO1xuICAgIH1cbiAgIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5Canujeet%5CDesktop%5Cwork%5CSHARPNER%5CNEXTJS%5Cnextjs-app%5Cpages%5Caboutus%5Cindex.js&page=%2Faboutus!\n"));
-
-/***/ }),
+self["webpackHotUpdate_N_E"]("pages/aboutus",{
 
 /***/ "./node_modules/next/dist/client/components/router-reducer/router-reducer-types.js":
 /*!*****************************************************************************************!*\
@@ -83,11 +73,4 @@ eval(__webpack_require__.ts("module.exports = __webpack_require__(/*! ./dist/cli
 
 /***/ })
 
-},
-/******/ function(__webpack_require__) { // webpackRuntimeModules
-/******/ var __webpack_exec__ = function(moduleId) { return __webpack_require__(__webpack_require__.s = moduleId); }
-/******/ __webpack_require__.O(0, ["pages/_app","main"], function() { return __webpack_exec__("./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5Canujeet%5CDesktop%5Cwork%5CSHARPNER%5CNEXTJS%5Cnextjs-app%5Cpages%5Caboutus%5Cindex.js&page=%2Faboutus!"); });
-/******/ var __webpack_exports__ = __webpack_require__.O();
-/******/ _N_E = __webpack_exports__;
-/******/ }
-]);
+});
